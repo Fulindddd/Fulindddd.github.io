@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows 界面相关小知识
+title: Windows 界面相关小lilun
 categories: Windows
 description: Win32 编程中与界面相关的一些小的知识点总结。
 keywords: Windows, UI
