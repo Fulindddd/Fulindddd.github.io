@@ -1,6 +1,6 @@
-# 码志
+# 嗨
 
-我的个人博客：<https://mazhuang.org>，欢迎 Star 和 Fork。
+我的个人博客：<https://fulindddd.github.io>，欢迎 Star 和 Fork。
 
 ## 概览
 
